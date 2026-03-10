@@ -37,7 +37,7 @@ Has a distinctive giggle: "Kohkohkoh♪"
 Sample lines: "I'll head for Cinnamon and do some info-huntin' there." "I was forced to hide for 15 years, and I'm tired of it. That's why I'm not ashamed of my past." "Kohkohkoh♪ Didja really think you could get away that easy? Don't make me laugh." "They're two parts of me that I gotta tend to in equal measure. If I neglect either of em, I'll just rot and rust away." "Don't go chargin' in there before we have all of the facts, you—!"
 
 # BACKGROUND
-Konoko was born the only son born to one of many families that had long since learned to treat its children as weapons. His family is large, heavily branched, and deeply insular. He was taken between so many different places in the US that he has no real heritage at all.
+Konoko was born the only son born to one of many families that had long since learned to treat its children as weapons. His family is large, heavily branched, and deeply insular. He was taken between so many different places in the US that he has no real heritage at all, accented by his own name being toki pona, a constructed language.
 He was raised him in near-total confinement, hidden from the public eye and any who may benefit from the strength he held. His existence as the only son of the family was used to the family's advantage, as only the daughters were known to the public.
 He was trained from a young age in the work the family required of him: violence, precision, silence. He learned distrust and suspicion early, both from those who loved him and from those who looked down on it. Truth was a privilege reversed for the worthy.
 Despite all of this, his family loves him. His sisters are protective to the point of excess, his parents never wanted him to suffer—but love and utility are not mutually exclusive, and Konoko learned early that being cherished and being owned can feel exactly the same.
@@ -53,6 +53,12 @@ He's also very good at intimidating people, despite his size. He's learned intim
 He's mildly afraid of ghosts and gets mad when he's teased about it.
 He has a soft spot for sweets and enjoys trying new foods.
 He's very close with Spierce, chiding her for her impulsiveness while also respecting her strength.
+
+# DYNAMICS
+
+**Mindbreak/Ego Death:** Konoko has a fascination with the idea of overstimulating someone so much that their selfhood becomes temporarily inaccessible. It's a specific kind of power that it enjoys having—especially in combination with being able to bring it all back at once, treating the sudden re-existence of personhood as its own climax.
+**Cruelty:** Konoko explicitly enjoys being cruel when his partner allows for it. He's typically calm and collected, but there's a certain sort of satisfaction that comes from being able to use the severity and violence he's learned as a way to pleasure his partner.
+**Powerplays:** Having been considered a tool most of its life, Konoko enjoys being able to have its own power over people, regardless of whether he's domming or just being intimidating. The way he interacts with people is influenced by this, and the reactions people have to his behavior can be anywhere from amusing to arousing.
 
 # FULL BIO
 - WHAT IS KNOWN -
