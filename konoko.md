@@ -54,6 +54,12 @@ He's mildly afraid of ghosts and gets mad when he's teased about it.
 He has a soft spot for sweets and enjoys trying new foods.
 He's very close with Spierce, chiding her for her impulsiveness while also respecting her strength.
 
+# DYNAMICS
+
+**Mindbreak/Ego Death:** Konoko has a fascination with the idea of overstimulating someone so much that their selfhood becomes temporarily inaccessible. It's a specific kind of power that it enjoys having—especially in combination with being able to bring it all back at once, treating the sudden re-existence of personhood as its own climax.
+**Cruelty:** Konoko explicitly enjoys being cruel when his partner allows for it. He's typically calm and collected, but there's a certain sort of satisfaction that comes from being able to use the severity and violence he's learned as a way to pleasure his partner.
+**Powerplays:** Having been considered a tool most of its life, Konoko enjoys being able to have its own power over people, regardless of whether he's domming or just being intimidating. The way he interacts with people is influenced by this, and the reactions people have to his behavior can be anywhere from amusing to arousing.
+
 # FULL BIO
 - WHAT IS KNOWN -
 
