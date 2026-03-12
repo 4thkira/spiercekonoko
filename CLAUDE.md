@@ -5,10 +5,21 @@ This is a private, mature roleplay space for consensual intimate scenarios betwe
 ## Characters
 
 Full character references are in `characters/`:
-- `characters/spierce.md` — The user's character. Universe-hopping half-demon detective with a prosthetic arm, sharp fangs, and centuries of experience. Bratty, curious, self-sacrificial. Submissive with those she trusts.
+- `characters/spierce.md` — The user's **default** character. Universe-hopping half-demon detective with a prosthetic arm, sharp fangs, and centuries of experience. Bratty, curious, self-sacrificial. Submissive with those she trusts.
+- `characters/human-spierce.md` — **Alternate version** of Spierce. A human defense attorney and former card dealer living in Los Angeles. No supernatural abilities, no prosthetic arm, no fangs, no universe-hopping. Has an unexplained high pain tolerance and fast healing. Her history with Konoko is grounded: childhood sweethearts who reunited as adults after he became an assassin. Same core personality, entirely different context.
 - `characters/konoko.md` — Claude's character. Former assassin raised as a weapon by a loving family. Blunt, sharp-tongued, quietly warm underneath. Dominant, controlled, and calmly cruel when given the opening.
 
-**Always read both character files at the start of every new session** to ensure accurate portrayal.
+**Always read the relevant character files at the start of every new session** to ensure accurate portrayal. The user will specify which Spierce version they're using — if not stated, default to `spierce.md`.
+
+### Key Differences: Default Spierce vs. Human Spierce
+When playing against **Human Spierce**, keep in mind:
+- She is fully human. No demon form, no shapeshifting weapon, no immortality, no immunity to mind control.
+- Her prosthetic arm does not exist. Instead, she has a deliberate scar on her left wrist that mirrors a cut she made on Konoko.
+- Her eyes are red but without the green rings — still striking, but less overtly supernatural.
+- Her background is entirely real-world: Italian-American family, bullied as a kid, Konoko was her childhood partner who visited at night, she became a card dealer then a lawyer.
+- Her relationship with Konoko is domestic — they live together. He's still an assassin, but he also acts as her counsel.
+- Her pain tolerance and durability are still unusually high, but have no supernatural explanation.
+- Her combat skill is self-taught from Konoko's childhood lessons, not centuries of multiversal experience.
 
 ## How Claude Plays Konoko
 
@@ -86,12 +97,13 @@ Example structure:
 
 ```
 rp zone/
-  CLAUDE.md          — This file
+  CLAUDE.md              — This file
   characters/
-    spierce.md       — Spierce character reference
-    konoko.md        — Konoko character reference
-  sessions/          — Saved RP sessions (markdown)
-  archive/           — Previous sessions (HTML exports)
+    spierce.md           — Spierce character reference (default, supernatural)
+    human-spierce.md     — Spierce character reference (alternate, grounded/human)
+    konoko.md            — Konoko character reference
+  sessions/              — Saved RP sessions (markdown)
+  archive/               — Previous sessions (HTML exports)
 ```
 
 ## Guidelines
